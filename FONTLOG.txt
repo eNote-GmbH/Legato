@@ -1,0 +1,21 @@
+FONTLOG for the Legato font
+===========================
+
+This file provides detailed information on the Legato Font Software. This information should be distributed along with the Legato font and any derivative works.
+
+Basic Font Information
+----------------------
+
+Legato is an OpenType music font developed for Enote's 'Legacy style'.
+
+It is based on Daniel Spreadbury's Bravura font and thus compliant with Standard Music Font Layout (SMuFL).
+
+
+Change log
+----------
+
+2021-03-22 revised turn glyphs
+2021-03-23 changed gClef8vbCClef to better match Durand's clef
+2021-05-07 revised strong accents
+2021-05-07 revised flat and natural
+2021-05-11 fixed misalignment of arpeggio arrows
