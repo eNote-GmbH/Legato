@@ -20,3 +20,4 @@ Change log
 2021-05-07 revised flat and natural
 2021-05-11 fixed misalignment of arpeggio arrows
 2021-10-13 revised double whole notes
+2021-11-12 revised tenutos
