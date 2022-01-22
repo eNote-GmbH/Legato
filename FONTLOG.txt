@@ -22,3 +22,4 @@ Change log
 2021-10-13 revised double whole notes
 2021-11-12 revised tenutos
 2022-01-21 adapted barlines to engraving defaults
+2022-01-22 revise mensural clefs and prolation glyphs

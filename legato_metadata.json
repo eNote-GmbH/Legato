@@ -13683,52 +13683,52 @@
         },
         "mensuralCclefPetrucciPosHigh": {
             "bBoxNE": [
-                0.976,
-                2.4
+                1.56,
+                1.76
             ],
             "bBoxSW": [
                 0.0,
-                -3.2
+                -2.24
             ]
         },
         "mensuralCclefPetrucciPosHighest": {
             "bBoxNE": [
-                0.976,
-                1.416
+                1.56,
+                1.52
             ],
             "bBoxSW": [
                 0.0,
-                -3.18
+                -2.48
             ]
         },
         "mensuralCclefPetrucciPosLow": {
             "bBoxNE": [
-                0.976,
-                3.2
+                1.56,
+                2.24
             ],
             "bBoxSW": [
                 0.0,
-                -2.4
+                -1.76
             ]
         },
         "mensuralCclefPetrucciPosLowest": {
             "bBoxNE": [
-                0.976,
-                3.2
+                1.56,
+                2.48
             ],
             "bBoxSW": [
                 0.0,
-                -1.396
+                -1.52
             ]
         },
         "mensuralCclefPetrucciPosMiddle": {
             "bBoxNE": [
-                0.976,
-                3.2
+                1.56,
+                2.0
             ],
             "bBoxSW": [
                 0.0,
-                -3.2
+                -2.0
             ]
         },
         "mensuralColorationEndRound": {
@@ -14483,42 +14483,42 @@
         },
         "mensuralProlation11": {
             "bBoxNE": [
-                1.98,
-                1.056
+                1.836,
+                1.036
             ],
             "bBoxSW": [
                 0.0,
-                -1.068
+                -1.044
             ]
         },
         "mensuralProlation4": {
             "bBoxNE": [
-                2.124,
-                1.452
+                2.08,
+                1.44
             ],
             "bBoxSW": [
                 0.0,
-                -1.52
+                -1.44
             ]
         },
         "mensuralProlation8": {
             "bBoxNE": [
-                1.98,
-                1.452
+                1.836,
+                1.44
             ],
             "bBoxSW": [
-                0.004,
-                -1.52
+                0.0,
+                -1.44
             ]
         },
         "mensuralProlationCombiningDot": {
             "bBoxNE": [
-                0.5,
-                0.248
+                0.48,
+                0.24
             ],
             "bBoxSW": [
                 0.0,
-                -0.252
+                -0.24
             ]
         },
         "mensuralProlationCombiningDotVoid": {
@@ -14533,42 +14533,42 @@
         },
         "mensuralProlationCombiningStroke": {
             "bBoxNE": [
-                0.192,
-                1.488
+                0.24,
+                1.44
             ],
             "bBoxSW": [
                 0.0,
-                -1.484
+                -1.44
             ]
         },
         "mensuralProlationCombiningThreeDots": {
             "bBoxNE": [
-                1.448,
-                0.196
+                1.52,
+                0.24
             ],
             "bBoxSW": [
                 0.0,
-                -0.196
+                -0.24
             ]
         },
         "mensuralProlationCombiningThreeDotsTri": {
             "bBoxNE": [
-                1.064,
-                0.504
+                1.08,
+                0.38
             ],
             "bBoxSW": [
                 0.0,
-                -0.5
+                -0.62
             ]
         },
         "mensuralProlationCombiningTwoDots": {
             "bBoxNE": [
-                1.064,
-                0.208
+                1.08,
+                0.24
             ],
             "bBoxSW": [
                 0.0,
-                -0.208
+                -0.24
             ]
         },
         "mensuralProportion1": {
@@ -14633,52 +14633,52 @@
         },
         "mensuralProportionProportioDupla1": {
             "bBoxNE": [
-                2.972,
-                1.06
+                2.96,
+                1.04
             ],
             "bBoxSW": [
-                0.0,
-                -1.064
+                -0.16,
+                -1.04
             ]
         },
         "mensuralProportionProportioDupla2": {
             "bBoxNE": [
-                2.16,
-                1.08
+                1.892,
+                1.308
             ],
             "bBoxSW": [
                 0.0,
-                -1.076
+                -1.308
             ]
         },
         "mensuralProportionProportioQuadrupla": {
             "bBoxNE": [
-                2.156,
-                1.076
+                1.836,
+                1.268
             ],
             "bBoxSW": [
                 0.0,
-                -1.08
+                -1.348
             ]
         },
         "mensuralProportionProportioTripla": {
             "bBoxNE": [
-                2.16,
-                1.08
+                1.892,
+                1.308
             ],
             "bBoxSW": [
                 0.0,
-                -1.076
+                -1.308
             ]
         },
         "mensuralProportionTempusPerfectum": {
             "bBoxNE": [
-                2.188,
-                1.1
+                2.08,
+                1.308
             ],
             "bBoxSW": [
                 0.0,
-                -1.104
+                -1.308
             ]
         },
         "mensuralRestFusa": {
@@ -28053,82 +28053,82 @@
         },
         "uniE910": {
             "bBoxNE": [
-                2.128,
-                1.06
+                2.08,
+                1.04
             ],
             "bBoxSW": [
-                0.004,
-                -1.064
+                0.0,
+                -1.04
             ]
         },
         "uniE911": {
             "bBoxNE": [
-                2.128,
-                1.06
+                2.08,
+                1.04
             ],
             "bBoxSW": [
-                0.004,
-                -1.064
+                0.0,
+                -1.04
             ]
         },
         "uniE912": {
             "bBoxNE": [
-                2.128,
-                1.452
+                2.08,
+                1.44
             ],
             "bBoxSW": [
-                0.004,
-                -1.52
+                0.0,
+                -1.44
             ]
         },
         "uniE914": {
             "bBoxNE": [
-                1.976,
-                1.06
+                1.836,
+                1.036
             ],
             "bBoxSW": [
                 0.0,
-                -1.064
+                -1.044
             ]
         },
         "uniE915": {
             "bBoxNE": [
-                1.976,
-                1.06
+                1.836,
+                1.036
             ],
             "bBoxSW": [
                 0.0,
-                -1.064
+                -1.044
             ]
         },
         "uniE916": {
             "bBoxNE": [
-                1.968,
-                1.124
+                1.836,
+                1.036
             ],
             "bBoxSW": [
-                -0.012,
-                -1.0
+                0.0,
+                -1.044
             ]
         },
         "uniE918": {
             "bBoxNE": [
-                1.98,
-                1.452
+                1.836,
+                1.44
             ],
             "bBoxSW": [
-                0.004,
-                -1.52
+                0.0,
+                -1.44
             ]
         },
         "uniE919": {
             "bBoxNE": [
-                1.98,
-                1.452
+                1.836,
+                1.44
             ],
             "bBoxSW": [
                 0.0,
-                -1.52
+                -1.44
             ]
         },
         "uniE953": {
