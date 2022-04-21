@@ -25,3 +25,4 @@ Change log
 2022-01-22 revise mensural clefs and prolation glyphs
 2022-02-28 revise tremolo glyphs
 2022-04-03 revise double whole notes and fix overlaps
+2022-04-21 minor refinements
