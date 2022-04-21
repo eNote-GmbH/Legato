@@ -13393,7 +13393,7 @@
         },
         "luteBarlineEndRepeat": {
             "bBoxNE": [
-                1.5,
+                1.78,
                 7.5
             ],
             "bBoxSW": [
@@ -13403,7 +13403,7 @@
         },
         "luteBarlineFinal": {
             "bBoxNE": [
-                0.912,
+                1.22,
                 7.5
             ],
             "bBoxSW": [
@@ -13413,7 +13413,7 @@
         },
         "luteBarlineStartRepeat": {
             "bBoxNE": [
-                1.5,
+                1.78,
                 7.5
             ],
             "bBoxSW": [
@@ -17913,7 +17913,7 @@
         },
         "noteheadCircleX": {
             "bBoxNE": [
-                0.996,
+                1.0,
                 0.5
             ],
             "bBoxSW": [
@@ -27232,5 +27232,358 @@
             ]
         }
     },
-    "glyphsWithAnchors": {}
+    "glyphsWithAnchors": {
+        "accidentalDoubleFlat": {
+            "cutOutNE": [
+                0.972,
+                0.656
+            ],
+            "cutOutSE": [
+                1.18,
+                -0.46
+            ]
+        },
+        "accidentalFiveQuarterTonesSharpArrowUp": {
+            "cutOutNW": [
+                0.404,
+                0.548
+            ]
+        },
+        "accidentalFlat": {
+            "cutOutNE": [
+                0.252,
+                0.656
+            ],
+            "cutOutSE": [
+                0.46,
+                -0.46
+            ]
+        },
+        "accidentalNarrowReversedFlat": {
+            "cutOutNW": [
+                0.476,
+                0.692
+            ],
+            "cutOutSW": [
+                0.236,
+                -0.424
+            ]
+        },
+        "accidentalNarrowReversedFlatAndFlat": {
+            "cutOutNW": [
+                0.476,
+                0.692
+            ],
+            "cutOutSW": [
+                0.236,
+                -0.424
+            ]
+        },
+        "accidentalNatural": {
+            "cutOutNE": [
+                0.192,
+                0.82
+            ],
+            "cutOutSW": [
+                0.5,
+                -0.84
+            ]
+        },
+        "accidentalNaturalFlat": {
+            "cutOutNE": [
+                1.092,
+                0.656
+            ],
+            "cutOutSE": [
+                1.3,
+                -0.46
+            ],
+            "cutOutSW": [
+                0.484,
+                -0.844
+            ]
+        },
+        "accidentalNaturalSharp": {
+            "cutOutNE": [
+                1.68,
+                0.94
+            ],
+            "cutOutSE": [
+                1.68,
+                -0.568
+            ],
+            "cutOutSW": [
+                0.5,
+                -0.84
+            ]
+        },
+        "accidentalQuarterToneFlatArrowUp": {
+            "cutOutNE": [
+                0.612,
+                0.656
+            ],
+            "cutOutSE": [
+                0.58,
+                -0.46
+            ]
+        },
+        "accidentalQuarterToneFlatNaturalArrowDown": {
+            "cutOutNE": [
+                0.192,
+                0.82
+            ],
+            "cutOutSW": [
+                0.18,
+                -0.84
+            ]
+        },
+        "accidentalQuarterToneFlatStein": {
+            "cutOutNW": [
+                0.616,
+                0.68
+            ],
+            "cutOutSW": [
+                0.376,
+                -0.436
+            ]
+        },
+        "accidentalQuarterToneSharpNaturalArrowUp": {
+            "cutOutNE": [
+                0.672,
+                0.82
+            ],
+            "cutOutSW": [
+                0.66,
+                -0.84
+            ]
+        },
+        "accidentalSharp": {
+            "cutOutNE": [
+                0.832,
+                0.9
+            ],
+            "cutOutNW": [
+                0.168,
+                0.624
+            ],
+            "cutOutSE": [
+                0.832,
+                -0.568
+            ],
+            "cutOutSW": [
+                0.16,
+                -0.9
+            ]
+        },
+        "accidentalSharpSharp": {
+            "cutOutNE": [
+                1.92,
+                0.94
+            ],
+            "cutOutNW": [
+                0.16,
+                0.624
+            ],
+            "cutOutSE": [
+                1.92,
+                -0.568
+            ],
+            "cutOutSW": [
+                0.16,
+                -0.9
+            ]
+        },
+        "accidentalThreeQuarterTonesFlatArrowDown": {
+            "cutOutNE": [
+                0.372,
+                0.656
+            ],
+            "cutOutSE": [
+                0.66,
+                -0.42
+            ]
+        },
+        "accidentalThreeQuarterTonesSharpArrowDown": {
+            "cutOutSE": [
+                0.592,
+                -0.548
+            ]
+        },
+        "accidentalTripleFlat": {
+            "cutOutNE": [
+                1.692,
+                0.656
+            ],
+            "cutOutSE": [
+                1.9,
+                -0.46
+            ]
+        },
+        "accidentalTripleSharp": {
+            "cutOutNE": [
+                1.04,
+                0.56
+            ],
+            "cutOutNW": [
+                0.16,
+                0.624
+            ],
+            "cutOutSE": [
+                0.88,
+                -0.56
+            ],
+            "cutOutSW": [
+                0.16,
+                -0.9
+            ]
+        },
+        "noteheadBlack": {
+            "cutOutNW": [
+                0.2,
+                0.28
+            ],
+            "cutOutSE": [
+                0.98,
+                -0.28
+            ],
+            "stemDownNW": [
+                0.0,
+                -0.168
+            ],
+            "stemUpSE": [
+                1.18,
+                0.168
+            ]
+        },
+        "noteheadCircleX": {
+            "cutOutNW": [
+                0.14,
+                0.36
+            ],
+            "cutOutSE": [
+                0.86,
+                -0.36
+            ],
+            "stemDownNW": [
+                0.0,
+                -0.0
+            ],
+            "stemUpSE": [
+                1.0,
+                0.0
+            ]
+        },
+        "noteheadCircleXHalf": {
+            "cutOutNW": [
+                0.14,
+                0.36
+            ],
+            "cutOutSE": [
+                0.86,
+                -0.36
+            ],
+            "stemDownNW": [
+                -0.0,
+                -0.0
+            ],
+            "stemUpSE": [
+                1.0,
+                0.0
+            ]
+        },
+        "noteheadCircleXWhole": {
+            "cutOutNW": [
+                0.14,
+                0.36
+            ],
+            "cutOutSE": [
+                0.86,
+                -0.36
+            ],
+            "stemDownNW": [
+                0.0,
+                0.0
+            ],
+            "stemUpSE": [
+                0.996,
+                -0.0
+            ]
+        },
+        "noteheadDoubleWhole": {
+            "stemDownNW": [
+                0.0,
+                0.0
+            ],
+            "stemUpSE": [
+                2.448,
+                0.0
+            ]
+        },
+        "noteheadDoubleWholeSquare": {
+            "stemDownNW": [
+                0.0,
+                0.0
+            ],
+            "stemUpSE": [
+                1.54,
+                0.0
+            ]
+        },
+        "noteheadHalf": {
+            "cutOutNW": [
+                0.204,
+                0.296
+            ],
+            "cutOutSE": [
+                0.976,
+                -0.296
+            ],
+            "stemDownNW": [
+                0.0,
+                -0.168
+            ],
+            "stemUpSE": [
+                1.18,
+                0.168
+            ]
+        },
+        "noteheadVoidWithX": {
+            "cutOutNW": [
+                0.18,
+                0.28
+            ],
+            "cutOutSE": [
+                0.98,
+                -0.28
+            ],
+            "stemDownNW": [
+                0.0,
+                -0.168
+            ],
+            "stemUpSE": [
+                1.156,
+                0.168
+            ]
+        },
+        "noteheadWhole": {
+            "cutOutNW": [
+                0.172,
+                0.332
+            ],
+            "cutOutSE": [
+                1.464,
+                -0.388
+            ]
+        },
+        "noteheadXBlack": {
+            "stemDownNW": [
+                -0.0,
+                -0.44
+            ],
+            "stemUpSE": [
+                1.16,
+                0.44
+            ]
+        }
+    }
 }
