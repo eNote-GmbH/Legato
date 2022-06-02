@@ -26,3 +26,5 @@ Change log
 2022-02-28 revise tremolo glyphs
 2022-04-03 revise double whole notes and fix overlaps
 2022-04-21 minor refinements
+2022-05-11 refined clefs
+2022-06-02 refined double cross
