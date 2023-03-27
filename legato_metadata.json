@@ -23343,11 +23343,11 @@
         },
         "pluckedFingernailFlick": {
             "bBoxNE": [
-                1.0,
-                1.596
+                0.96,
+                1.52
             ],
             "bBoxSW": [
-                -0.004,
+                0.0,
                 0.0
             ]
         },
@@ -23363,7 +23363,7 @@
         },
         "pluckedPlectrum": {
             "bBoxNE": [
-                1.764,
+                1.76,
                 2.0
             ],
             "bBoxSW": [
@@ -23393,12 +23393,12 @@
         },
         "pluckedWithFingernails": {
             "bBoxNE": [
-                1.592,
-                1.0
+                1.52,
+                0.96
             ],
             "bBoxSW": [
-                0.004,
-                -0.004
+                0.0,
+                0.0
             ]
         },
         "quindicesima": {

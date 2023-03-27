@@ -29,3 +29,4 @@ Change log
 2022-05-11 refined clefs
 2022-06-02 refined double cross
 2022-07-07 refined dynamics
+2023-03-27 refined plucked glyphs
