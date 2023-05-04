@@ -29,7 +29,7 @@
         "tupletBracketThickness": 0.16
     },
     "fontName": "Legato",
-    "fontVersion": "1.4",
+    "fontVersion": "1.5",
     "glyphBBoxes": {
         "4stringTabClef": {
             "bBoxNE": [
@@ -6653,8 +6653,8 @@
         },
         "caesura": {
             "bBoxNE": [
-                1.536,
-                2.128
+                1.436,
+                1.8
             ],
             "bBoxSW": [
                 0.0,
@@ -6663,8 +6663,8 @@
         },
         "caesuraCurved": {
             "bBoxNE": [
-                1.492,
-                2.12
+                1.36,
+                1.8
             ],
             "bBoxSW": [
                 0.0,
@@ -6673,8 +6673,18 @@
         },
         "caesuraShort": {
             "bBoxNE": [
-                0.744,
-                2.132
+                0.64,
+                1.4
+            ],
+            "bBoxSW": [
+                0.0,
+                0.0
+            ]
+        },
+        "caesuraSingleStroke": {
+            "bBoxNE": [
+                0.208,
+                1.4
             ],
             "bBoxSW": [
                 0.0,
@@ -6683,8 +6693,8 @@
         },
         "caesuraThick": {
             "bBoxNE": [
-                2.652,
-                2.128
+                2.4,
+                1.8
             ],
             "bBoxSW": [
                 0.0,

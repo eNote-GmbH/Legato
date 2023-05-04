@@ -22,11 +22,12 @@ Change log
 2021-10-13 revised double whole notes
 2021-11-12 revised tenutos
 2022-01-21 adapted barlines to engraving defaults
-2022-01-22 revise mensural clefs and prolation glyphs
-2022-02-28 revise tremolo glyphs
-2022-04-03 revise double whole notes and fix overlaps
+2022-01-22 revised mensural clefs and prolation glyphs
+2022-02-28 revised tremolo glyphs
+2022-04-03 revised double whole notes and fix overlaps
 2022-04-21 minor refinements
 2022-05-11 refined clefs
 2022-06-02 refined double cross
 2022-07-07 refined dynamics
 2023-03-27 refined plucked glyphs
+2023-05-04 revised caesura glyphs
